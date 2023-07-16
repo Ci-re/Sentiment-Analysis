@@ -1,0 +1,1 @@
+username, no of upvotes, text, time stamp, comments, 
